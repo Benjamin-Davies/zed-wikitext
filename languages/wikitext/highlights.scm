@@ -1,5 +1,3 @@
-(text) @text
-
 (heading1
   (heading_marker) @title.markup.marker
   (text) @title.markup.1
