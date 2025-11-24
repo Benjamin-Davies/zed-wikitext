@@ -1,0 +1,6 @@
+name = "Wikitext"
+grammar = "wikitext"
+path_suffixes = ["wikimedia", "mediawiki", "wikitext"]
+block_comment = { start = "<!-- ", prefix = "", end = " -->", tab_size = 0 }
+tab_size = 2
+hard_tabs = false

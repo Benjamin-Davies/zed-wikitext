@@ -1,0 +1,11 @@
+id = "wikitext"
+name = "Wikitext"
+version = "0.0.1"
+schema_version = 1
+authors = ["Benjamin Davies <bentendavies@gmail.com>"]
+description = "Wikitext language support."
+repository = "https://github.com/Benjamin-Davies/zed-wikitext"
+
+[grammars.wikitext]
+repository = "https://github.com/santhoshtr/tree-sitter-wikitext"
+rev = "8a1b422dce3816f22ffb2b769db9c611ddede642"
