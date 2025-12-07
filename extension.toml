@@ -3,7 +3,7 @@ name = "Wikitext"
 version = "0.0.1"
 schema_version = 1
 authors = ["Benjamin Davies <bentendavies@gmail.com>"]
-description = "Wikitext language support."
+description = "Zed support for Wikitext, a markup language used by MediaWiki."
 repository = "https://github.com/Benjamin-Davies/zed-wikitext"
 
 [grammars.wikitext]
